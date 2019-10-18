@@ -1,0 +1,35 @@
+p {
+  font-size:75px;
+  font-family: 'Arvo',serif;
+  text-align:center;
+  text-shadow:4px 5px #ffb436;
+}
+#button1{
+  font-size:23px;
+  font-family: 'Source Code Pro', monospace;
+  background-color:#ffcd78;
+}
+input{
+  font-size:30px;
+  font-family: 'Source Code Pro', monospace;
+  background-color:#f2dbb8;
+}
+#button2{
+  font-size:23px;
+  font-family: 'Source Code Pro', monospace;
+  background-color:#ffcd78;
+}
+#body{
+  background-color:#fbffb0;
+}
+div{
+  padding-left:35%;
+}
+ol{
+  font-size:20px;
+  font-family: 'Source Code Pro', monospace;
+}
+#ful{
+  font-size:30px;
+  font-family: 'Source Code Pro', monospace;
+}
